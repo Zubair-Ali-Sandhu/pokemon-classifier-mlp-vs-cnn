@@ -4,7 +4,7 @@ A comparative study of Multi-Layer Perceptron (MLP) and Convolutional Neural Net
 
 ## 📖 Blog Post
 
-**Read the full article on Medium:** [Pokémon Image Classification: A Deep Dive into MLP vs CNN Performance](YOUR_MEDIUM_LINK_HERE)
+**Read the full article on Medium:** [Pokémon Image Classification: A Deep Dive into MLP vs CNN Performance](https://medium.com/@zs6632588/pok%C3%A9mon-image-classification-a-deep-dive-into-mlp-vs-cnn-performance-aab2718d7fb9?postPublishedType=repub)
 
 ## 🎯 Results Summary
 
