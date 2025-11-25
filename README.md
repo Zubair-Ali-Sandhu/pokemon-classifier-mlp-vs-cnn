@@ -57,8 +57,4 @@ python Task2-sample-code-pytorch.py
 
 
 
-MIT License
-
----
-
 **⭐ Star this repo if you find it helpful!**
